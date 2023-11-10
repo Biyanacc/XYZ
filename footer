@@ -1,0 +1,247 @@
+<footer id="footer">
+        
+          <div class="footer-container">
+	<div class="footer_top">
+		<div class="container">
+		    <div class="row">
+			   
+         	<div class="col-md-12 links footer_block">
+      <div class="row mb-3 footer-service">
+<div class="widget col-lg-4 col-md-4 col-sm-4 col-xs-4 col-sp-4">
+<div class="row">
+<div class="col-md-3 text-center"><img src="/img/cms/termurah-ficon.png" alt="" width="76" height="74"></div>
+<div class="col-md-9 text-md-left text-center">
+<h4>Harga Bersaing</h4>
+<p>Jaminan Harga Bersaing</p>
+</div>
+</div>
+</div>
+<div class="widget col-lg-4 col-md-4 col-sm-4 col-xs-4 col-sp-4">
+<div class="row">
+<div class="col-md-3 text-center"><img src="/img/cms/terlengkap-ficon.png" alt="" width="76" height="74"></div>
+<div class="col-md-9 text-md-left text-center">
+<h4>Terlengkap</h4>
+<p>Tersedia Berbagai Brands</p>
+</div>
+</div>
+</div>
+<div class="widget col-lg-4 col-md-4 col-sm-4 col-xs-4 col-sp-4">
+<div class="row">
+<div class="col-md-3 text-center"><img src="/img/cms/terpercaya-ficon.png" alt="" width="76" height="74"></div>
+<div class="col-md-9 text-md-left text-center">
+<h4>Terpercaya</h4>
+<p>Garansi Resmi 1 Tahun</p>
+</div>
+</div>
+</div>
+</div>
+      </div>
+
+					<div class="col-md-4 links footer_block">
+      <div class="footer_about_us">
+<div class="logo_footer"><a href="#"><img src="https://www.distcctv.com/img/cms/Logo-Dist-Cctv-Color.png" width="184" height="76"></a></div>
+<div class="desc_info">
+<p class="txt_info">PT. Panduwan Aditian Teknologi adalah perusahaan <a href="https://www.distcctv.com/"><strong>distributor CCTV</strong></a> terbesar Se-Indonesia. Berpengalaman bertahun-tahun dan telah dipercaya oleh berbagai Merk CCTV terbaik di Dunia untuk medistribusikaan produk CCTV mereka, mulai dari <a href="https://www.distcctv.com/242-cctv-indoor"><strong>Kamera Indoor</strong></a>, <a href="https://www.distcctv.com/243-cctv-outdoor"><strong>Kamera Outdoor</strong></a>, <strong><a href="https://www.distcctv.com/253-dvr">DVR</a>, <a href="https://www.distcctv.com/254-nvr">NVR</a></strong>, Harddisk, serta <a href="https://www.distcctv.com/206-aksesoris">Aksesoris CCTV</a>.</p>
+<div class="need_help">
+<p>NEED HELP?</p>
+<p class="phone">(021)54396281</p>
+</div>
+<div class="payment"></div>
+</div>
+</div>
+      </div>
+<div class="col-md-2 links footer_block">
+	<h3 class=" hidden-sm-down">Information</h3>
+	<div class="title clearfix hidden-md-up" data-target="#footer_2" data-toggle="collapse">
+		<h3>Information</h3>
+		<span class="float-xs-right">
+			<span class="navbar-toggler collapse-icons">
+				<i class="material-icons add">keyboard_arrow_down</i>
+				<i class="material-icons remove">keyboard_arrow_up</i>
+			</span>
+		</span>
+	</div>
+      <ul id="footer_2" class="collapse footer_list">
+      	
+        <li>
+          <a id="link-cms-page-4-2" class="cms-page-link" href="https://www.distcctv.com/content/4-about-us" title="Learn more about us">
+            About us
+          </a>
+        </li>
+      	
+        <li>
+          <a id="link-static-page-contact-2" class="cms-page-link" href="https://www.distcctv.com/hubungi-kami" title="Gunakan form ini untuk menghubungi kami DIST CCTV">
+            Hubungi kami
+          </a>
+        </li>
+          </ul>
+  </div>
+<div class="col-md-2 links footer_block">
+	<h3 class=" hidden-sm-down">Custom Links</h3>
+	<div class="title clearfix hidden-md-up" data-target="#footer_3" data-toggle="collapse">
+		<h3>Custom Links</h3>
+		<span class="float-xs-right">
+			<span class="navbar-toggler collapse-icons">
+				<i class="material-icons add">keyboard_arrow_down</i>
+				<i class="material-icons remove">keyboard_arrow_up</i>
+			</span>
+		</span>
+	</div>
+      <ul id="footer_3" class="collapse footer_list">
+      	
+        <li>
+          <a id="link-product-page-best-sales-3" class="cms-page-link" href="https://www.distcctv.com/terlaris" title="Produk terlaris">
+            Terlaris
+          </a>
+        </li>
+      	
+        <li>
+          <a id="link-static-page-authentication-3" class="cms-page-link" href="https://www.distcctv.com/login" title="">
+            Login
+          </a>
+        </li>
+      	
+        <li>
+          <a id="link-static-page-my-account-3" class="cms-page-link" href="https://www.distcctv.com/akun-saya" title="">
+            Akun saya
+          </a>
+        </li>
+          </ul>
+  </div>
+<div class="col-md-4 links footer_block">
+	<h3 class=" hidden-sm-down">Sign Up To Newsletter</h3>
+	<div class="title clearfix hidden-md-up" data-target="#footer_4" data-toggle="collapse">
+		<h3>Sign Up To Newsletter</h3>
+		<span class="float-xs-right">
+			<span class="navbar-toggler collapse-icons">
+				<i class="material-icons add">keyboard_arrow_down</i>
+				<i class="material-icons remove">keyboard_arrow_up</i>
+			</span>
+		</span>
+	</div>
+     <div id="footer_4" class="collapse footer_list">
+    
+          
+<div class="ft_newsletter">
+		<div class="des_newsletter">Anda dapat berhenti berlangganan kapan saja. Caranya, temukan informasi kontak kami di halaman aturan penggunaan.</div>
+		<form action="https://www.distcctv.com/#footer" method="post">
+		<button class="btn btn-primary" name="submitNewsletter" type="submit" value="Berlangganan"></button>
+		<div class="input-wrapper">
+		<input name="email" type="email" value="" placeholder="Alamat surel Anda">
+		</div>
+		<input type="hidden" name="action" value="0">
+		<div class="clearfix"></div>
+						
+			</form>
+</div>
+
+	
+
+  <div class="social_follow "> 
+    <h4>Follow us</h4>
+    <ul>
+              <li class="facebook"><a href="https://www.facebook.com/cctvdistributor" target="_blank" title="Facebook">Facebook</a></li>
+              <li class="twitter"><a href="https://twitter.com/distributorcctv" target="_blank" title="Twitter">Twitter</a></li>
+              <li class="instagram"><a href="https://www.instagram.com/distributorcctv/" target="_blank" title="Instagram">Instagram</a></li>
+          </ul>
+  </div>
+
+
+
+
+    	</div>	
+  </div>
+
+			    
+			</div>
+		</div>
+	</div>
+	<div class="footer_bottom">
+		<div class="container">
+			<div class="row">
+				
+					<div class="col-md-12 links footer_block">
+      <div class="copyright">Copyright 2021 © <a href="https://www.distcctv.com/">DISTCCTV</a>. All Rights Reserved</div>
+      </div>
+
+				
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Modal -->
+<div class="modal fade" id="modal-brand" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">×</span>
+        </button>
+      </div>
+      <div class="modal-body text-center pt-0">
+        <img src="">
+        <div class="mb-1">
+         <a href="#" class="btn btn-success form-whatsapp btn-bantuan-project"> <i class="fab fa-whatsapp"></i> Bantuan Project</a>
+          </div>
+           <div>
+         <a href="#" class="btn btn-success form-whatsapp btn-pricelist"><i class="fab fa-whatsapp"></i> Ambil Price List</a>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Tutup</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="whatsapp-top" style="display: block; opacity: 0.984292;">
+    <button class="btn btn-whatsapp form-whatsapp" data-text="Halo DistCCTV, Saya mau tanya"><i class="fab fa-whatsapp"></i> Chat Via Whatsapp</button>
+</div>
+<div class="whatsapp-bottom" style="display: block;">
+    <button class="btn btn-whatsapp form-whatsapp" data-text="Halo DistCCTV, Saya mau tanya"><i class="fab fa-whatsapp"></i> Chat Via Whatsapp</button>
+</div>
+<nav class="bottom-menu">
+  <ul>
+    <li class="to_top"><button class="bottom-to-top"><i class="fas fa-chevron-up"></i><span>Ke Atas</span></button></li>
+    <li class=""><button class="btn-category bottom-open-menu"><i class="fas fa-th"></i><span>Kategori</span></button></li>
+    <li class=""><button class="form-whatsapp" data-text="Halo DistCCTV Saya Mau Order:"><i class="fab fa-whatsapp"></i><span>Hubungi</span></button></li>
+  </ul>
+</nav>
+
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-sm" role="document">
+    <div class="modal-content">
+      <form>
+        <div class="modal-header" style="border:none">
+        <img class="popup-img img-responsive" style="margin:auto;max-width:140px;" src="https://www.distcctv.com/img/cms/Logo-Dist-Cctv-Color.png">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="position: absolute;top: 15px;right: 20px;">
+            <span aria-hidden="true">×</span> </button>
+          </div>
+        <div class="modal-body" style="padding-top:0px">
+          
+          <h5 class="text-center" style="font-size:16px">Formulir Kontak Whatsapp</h5>
+          <p class="text-center mb-2">
+            Isi dan submit, Customer Service Kami akan langsung menghubungi Anda.
+          </p>
+          <input type="hidden" name="text" class="whatsapp-text">
+          <div class="form-group">
+            <label for="exampleInputEmail1">Nama Lengkap<span style="color:#ff0000">*</span></label> 
+            <input class="form-control" type="text" name="name">
+            <div class="invalid-feedback"></div>
+          </div>
+          <div class="form-group">
+            <label for="exampleInputEmail1">Nomor Handphone<span style="color:#ff0000">*</span></label> 
+            <input class="form-control" type="text" name="phone">
+            <div class="invalid-feedback"></div>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="submit" class="btn btn-primary" style="width:100%"><i class="fab fa-whatsapp"></i>
+            Kirim Sekarang</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>        
+    </footer>
